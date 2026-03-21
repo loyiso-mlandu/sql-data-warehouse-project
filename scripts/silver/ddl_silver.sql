@@ -1,9 +1,9 @@
 /*
 ====================================================================================
-DDL Script: Create Bronze Tables
+DDL Script: Create Silver Tables
 ====================================================================================
 Script Purpose:
-  This script creates tables in the 'bronze' schema.
+  This script creates tables in the 'silver' schema.
 ====================================================================================
 */
 
